@@ -3,8 +3,7 @@
     <h1>Olá!!! Eu sou o Rafa. 👋 </h1>
     <h2>Bem vindo ao meu Perfil.</h2>
     <p> Me chamo Rafael Soares. Uma pessoa que quanto mais aprende mais se apaixona pela tecnologia e a programação. Estou me dedicando à Ciência de Dados por acreditar em seu potencial de não só tornar empresas e negócios lucrativos e ecologicamente sustentáveis, mas também de ajudar, através da informação, a trazer de volta mais humanidade para os relacionamentos com o ambiente que os cercam. 
-    </p>
-    <p>Amo de aprender e compartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
+    </p>bfghjfghjfghjfghjmpartilhar e espero um dia fazer parte do grupo das pessoas que farão esse mundo melhor através da tecnologia. 
     </p>
 </div>
 <div>
